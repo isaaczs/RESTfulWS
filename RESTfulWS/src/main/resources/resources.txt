@@ -1,0 +1,2 @@
+Es aqui donde se mostrarán cada uno de los recursos ocupados en el codigo fuente a lo largo del 
+desarrollo del proyecto
