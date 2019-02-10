@@ -259,6 +259,6 @@
   </build>
    
    <!--URL del repositorio de Github-->
-  <url>PONER LA URL DEL GITHUB</url>
+  <url>https://github.com/isaaczs/RESTfulWS</url>
   
 </project>
